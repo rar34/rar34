@@ -7,7 +7,7 @@ experiences. Excited about cutting-edge technologies to build innovative web app
 JavaScript, HTML, CSS, and adept at optimizing code for performance and scalability. Skilled in utilizing Tailwind CSS to create
 beautiful and responsive designs. Experienced in collaborating with cross-functional teams to deliver high-quality software solutions.
 
-Skills: REACT / JavaScript / NodeJS / ExpressJS / firebase / HTML5 / tailwind CSS 
+Skills: ReactJS / JavaScript / NodeJS / ExpressJS / firebase / HTML5 / tailwind CSS 
 
 - 🔭 I’m currently working on MedCampOrganizer 
 - 🌱 I’m currently learning NextJS 
