@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rasel Mia
 #### Frontend developer with reactJS
-![Frontend developer with reactJS](https://media.licdn.com/dms/image/D5616AQFV-kdU3ejDQQ/profile-displaybackgroundimage-shrink_350_1400/0/1714712036901?e=1724284800&v=beta&t=_A5PxWNJdML9iJOkxuRFFOm-Umlds5EPZsUMWPQ9x2s)
+![Frontend developer with reactJS](https://media.licdn.com/dms/image/D5616AQGPwnczNTW8JA/profile-displaybackgroundimage-shrink_350_1400/0/1719122685752?e=1724889600&v=beta&t=SMkGzFUO1-c7Fwe6UzmAG6ID1mPLY_jVkUbG66vDVAE)
 
 Passionate Frontend Developer with expertise in React.js, Express.js, MongoDB, firebase and a flair for crafting seamless user
 experiences. Excited about cutting-edge technologies to build innovative web applications that solve real-world problems. Proficient in
