@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rasel Mia
 #### Frontend developer from Bangladesh
-![Frontend developer with reactJS](https://media.licdn.com/dms/image/D5616AQGPwnczNTW8JA/profile-displaybackgroundimage-shrink_350_1400/0/1719122685752?e=1724889600&v=beta&t=SMkGzFUO1-c7Fwe6UzmAG6ID1mPLY_jVkUbG66vDVAE)
+![Frontend developer with reactJS](https://media.licdn.com/dms/image/v2/D5616AQGPwnczNTW8JA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719122685752?e=1733961600&v=beta&t=vXXGPbgqJO-IYRZjMvXGGCLn22PecY_3gu9qQcCLKlo)
 
 Passionate Frontend Developer with expertise in React.js, Express.js, MongoDB, firebase and a flair for crafting seamless user
 experiences. Excited about cutting-edge technologies to build innovative web applications that solve real-world problems. Proficient in
